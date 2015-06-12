@@ -11,5 +11,6 @@
 		function __construct(argument)
 		{
 			# code...
+			
 		}
 	}
